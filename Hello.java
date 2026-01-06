@@ -5,5 +5,7 @@ public class Hello
 	{
 		System.out.println("Git-VCS");
 		System.out.println("After First Commit");
+		System.out.println("second commit");
+
 	}
 }
